@@ -19,7 +19,8 @@
 
 1.Какие семантические теги вы использовали?
 
-Использованы теги: <header>, <nav>, <section>, <article>, <footer>.
+Использованы теги:`<header>`, `<nav>`, `<section>`, `<article>`, `<footer>`
+
 
 2.Где использовали flexbox, а где grid?
 
